@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!--ExploreFilter-->
+    <string name="explore_sort_popularity">Popularity</string>
+    <string name="explore_sort_revenue">Revenue</string>
+    <string name="explore_sort_primary_release_date">Primary release date</string>
+    <string name="explore_sort_vote_average">Vote average</string>
+    <string name="explore_sort_original_title">Original title</string>
+
+    <string name="explore_sort_movie">Movie</string>
+    <string name="explore_sort_tv">Tv</string>
+
+    <string name="explore_content_type_title">Content type</string>
+    <string name="explore_sort_by_title">Sort by</string>
+    <string name="explore_release_year_title">Release year</string>
+    <string name="explore_genre_title">Genres</string>
+</resources>

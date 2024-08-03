@@ -1,0 +1,24 @@
+{
+  "originHash" : "4757c113c8a103ce8b7022394505f63c62306bb536bfeafd882d75744785ebb6",
+  "pins" : [
+    {
+      "identity" : "swiftui-cached-async-image",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lorenzofiamingo/swiftui-cached-async-image",
+      "state" : {
+        "revision" : "467a3d17479887943ab917a379e62bbaff60ac8a",
+        "version" : "2.1.1"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "be9dbcc7b86811bc131539a20c6f9c2d3e56919f",
+        "version" : "2.9.1"
+      }
+    }
+  ],
+  "version" : 3
+}

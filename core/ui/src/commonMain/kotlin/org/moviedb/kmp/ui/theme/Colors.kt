@@ -1,0 +1,30 @@
+package org.moviedb.kmp.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Black = Color(0xFF000000)
+val Black2 = Color(0xFF030708)
+val Black8 = Color(0xFF131418)
+val Black13 = Color(0xFF1E1F24)
+val Black12 = Color(0xFF1f1e1e)
+val White = Color(0xFFFFFFFF)
+val White97 = Color(0xFFF5F6F8)
+val Yellow51 = Color(0xFFEDC018)
+val Yellow54 = Color(0xFFF5971D)
+val Yellow56 = Color(0xFFF59A29)
+val Yellow75 = Color(0xFFFFE880)
+val Gray20 = Color(0xFF333333)
+val Gray28 = Color(0xFF474747)
+val Gray30 = Color(0xFF494D52)
+val Gray33 = Color(0xFF555555)
+val Gray73 = Color(0xFFBABABA)
+val Gray41 = Color(0xFF626870)
+val Gray87 = Color(0xFFDFDFDF)
+val Gray92 = Color(0xFFebe8e8)
+val Gray93 = Color(0xFFEEEEEE)
+val Gray95 = Color(0xFFf5f2f2)
+val Red46 = Color(0xFFEB0101)
+
+val Blue31 = Color(0xFF304E70)
+val Blue32 = Color(0xFF324E72)
+val Blue64 = Color(0xFF539DF4)

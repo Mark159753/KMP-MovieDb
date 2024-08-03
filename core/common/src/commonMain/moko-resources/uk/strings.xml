@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!--ExploreFilter-->
+    <string name="explore_sort_popularity">Популярністю</string>
+    <string name="explore_sort_revenue">Доходом</string>
+    <string name="explore_sort_primary_release_date">Датою первинного випуску</string>
+    <string name="explore_sort_vote_average">Середньою оцінкою</string>
+    <string name="explore_sort_original_title">Оригінальною назвою</string>
+
+    <string name="explore_sort_movie">Кіно</string>
+    <string name="explore_sort_tv">Тв</string>
+
+    <string name="explore_content_type_title">Тип контенту</string>
+    <string name="explore_sort_by_title">Сортувати за</string>
+    <string name="explore_release_year_title">Рік випуску</string>
+    <string name="explore_genre_title">Жанри</string>
+</resources>

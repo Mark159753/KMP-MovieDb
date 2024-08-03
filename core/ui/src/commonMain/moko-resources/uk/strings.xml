@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="title">Якийсь заголовок</string>
+
+    <!--BottomNavigation-->
+    <string name="bottom_nav_home">Дім</string>
+    <string name="bottom_nav_lists">Списки</string>
+    <string name="bottom_nav_explore">Відкриття</string>
+    <string name="bottom_nav_account">Профіль</string>
+
+    <!--HomeTrendsSlider-->
+    <string name="home_trends_slider_add_to_list">Додати до списку</string>
+    <string name="home_trends_slider_details">Детальніше</string>
+
+    <!--HomeScreen-->
+    <string name="home_screen_upcoming_title">Скоро</string>
+    <string name="home_screen_tv_trends_title">Тренди ТВ</string>
+    <string name="home_screen_people_title">Люди</string>
+
+    <!--AccountScreen-->
+    <string name="account_screen_use_dark_mode_title">Темна тема</string>
+    <string name="account_screen_language_title">Мова</string>
+    <string name="language_en">Англійська</string>
+    <string name="language_uk">Українська</string>
+
+    <!--Explore Screen-->
+    <string name="explore_title">Відкриття</string>
+    <string name="explore_filer_title">Сортування та Фільтр</string>
+    <string name="explore_filer_clear_btn_title">Очистити</string>
+    <string name="explore_filer_apply_btn_title">Застосувати</string>
+</resources>
