@@ -14,7 +14,7 @@ This project was created as a playground for Kotlin Multiplatform (KMP). Apologi
 For shared resources, Moko Resources was chosen because it works better with iOS than Kotlin Compose Resources.
 
 ### Database
-Room was chosen as the ORM for database operations. Unfortunately, Room is still in alpha and has many issues out of the box, including the inability to generate a `PagingSource`, which had to be implemented manually.
+Room was chosen as the ORM for database operations. Unfortunately, Room is still in alpha and has many issues out of the box, including the inability to generate a `PagingSource`, which had to be implemented [manually](https://github.com/Mark159753/KMP-MovieDb/blob/main/core/data/src/commonMain/kotlin/org/moviedb/kmp/data/paging/base/BaseLocalPagingSource.kt).
 
 ### Gradle Configuration
 To improve convenience, the Gradle convention plugin was used to externalize common dependencies and settings.
